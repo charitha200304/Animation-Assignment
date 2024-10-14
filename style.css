@@ -65,14 +65,14 @@ nav ul li{
 }
 
 nav ul li a{
-    color:var(--text-color);
+    color: white;
     text-decoration: none;
     font-weight: bold;
 }
 
 
 nav ul li a:hover{
-    color: white;
+    color: black;
     transition: .3s;
 }
 
